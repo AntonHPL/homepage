@@ -1,0 +1,26 @@
+.link_image {
+    width: 50px;
+}
+
+.link_block {
+    margin: 5px 0 0 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid white;
+    width: 70px;
+}
+
+.link_block:hover {
+    border: 1px solid #e3e5e8;
+    border-radius: 5px;
+}
+
+.link_block_1 {
+    margin: 5px 0 0 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid gray;
+    width: 70px;
+}
